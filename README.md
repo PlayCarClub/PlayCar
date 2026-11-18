@@ -1,2 +1,2 @@
 # PlayCar
-A super-smooth, lightweight car head-unit desktop.
+A super-smooth, lightweight car head-unit launcher.
